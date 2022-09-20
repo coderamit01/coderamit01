@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is  Amit Hasan
 #### I am a Web developer
-![I am a Web developer](https://pbs.twimg.com/profile_banners/1517219742586912768/1661443546/600x200)
+![I am a Web developer]
 
 Hi,
 I'm Amit Hasan. I work as a web designer and developer. As a WordPress specialist, I have extensive knowledge of the platform. I enjoy working with WordPress. My skills ( HTML5, CSS3, Bootstrap 5, Javascript, jquery, Mysql, SQL, Ajax, PHP, WordPress). My experience is to help you to grow your business. My main priority is to satisfy my clients with the best quality & friendly customer support.
