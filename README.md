@@ -2,8 +2,7 @@
 ### This is  Amit Hasan
 
 Hi,
-I am a Web developer. I work as a web designer and developer. As a WordPress specialist, I have extensive knowledge of the platform. I enjoy working with WordPress. My skills ( HTML5, CSS3, Bootstrap 5, Mysql, SQL, Ajax, PHP, WordPress). My experience is to help you to grow your business. My main priority is to satisfy my clients with the best quality & friendly customer support.
-Your satisfaction is my motivation!
+I am a Web developer. I work as a web designer and developer. As a WordPress specialist, I have extensive knowledge of the platform. Love to work on Web Programming, HTML5, CSS3, Bootstrap 5, Mysql, SQL, Ajax, PHP, PHP OOP, WordPress. Thank you. I'm Looking forward to meeting new challenges with new projects.
 
 Skills: HTML / CSS/ Bootstrap/ PHP/SQL/MySql/WordPress/SASS
 
