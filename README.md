@@ -1,12 +1,43 @@
-### Hi 👋, I'm Amit
+<!--Banner-->
 
-Building scalable, high-performance web applications and seamless digital experiences
-  
+![Amit Banner Image](./banner.png)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=coderamit01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=coderamit01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderamit01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--Header Name-->
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M Amit!
+
+_Full Stack Developer_
+<br />
+
+<!--Start Intro-->
+<p align="left">Building scalable and user-focused web applications with Next.js, Express.js, Node.js, JavaScript, TypeScript, WordPress, WooCommerce, Postgres, MongoDB and MySQL. </p>
+
+- ✨ Student of life :)
+- 🌱 I believe every day is an opportunity to learn and improve.
+- 💻 Passionate about Web Development, WordPress, and Modern JavaScript ecosystems.
+- 🚀 Currently exploring scalable applications with Next.js & Express.js.
+- 🛒 Experienced in building eCommerce solutions using WooCommerce.
+- 📚 Continuously learning new technologies and development best practices.
+- 🎯 Always ready to take on new challenges and impactful projects.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<!-- <p align="left">
+  ![Profile Views](https://komarev.com/ghpvc/?username=coderamit01&label=Profile%20views&color=770677&style=for-the-badge&logo=star)
+</p> -->
+
+---
+
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
