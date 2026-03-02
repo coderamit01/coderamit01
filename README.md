@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M Amit!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝓘'𝓜 𝓐𝓶𝓲𝓽!
 
 _Full Stack Developer_
 <br />
@@ -40,10 +40,7 @@ _Full Stack Developer_
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
-<br />
-<br />
-<br />
+<br clear="left" />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
