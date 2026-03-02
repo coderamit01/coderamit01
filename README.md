@@ -35,11 +35,13 @@ _Full Stack Developer_
 
 <!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+</div>
 <br />
 
 <!--Contribution Graph-->
@@ -65,19 +67,19 @@ _Full Stack Developer_
 <div align="center">
   
 <a href="mailto:amitmohammad46@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="amitmohammad46@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" alt="amitmohammad46@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/procoderamit" target="_blank">
-<img src="./x.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./x.png" width="50px" height="50px" alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/coderamit01" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width="50px" height="50px" alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
 <a href="http://linkedin.com/in/procoderamit" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width="50px" height="50px" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 </div>
