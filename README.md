@@ -44,6 +44,8 @@ _Full Stack Developer_
 </div>
 <br />
 
+---
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -65,21 +67,21 @@ _Full Stack Developer_
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
+
 <a href="mailto:amitmohammad46@gmail.com" target="_blank">
-<img src="./gmail.png" alt="amitmohammad46@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" alt="amitmohammad46@gmail.com" width="35" height="35" />
 </a>
 
 <a href="https://x.com/procoderamit" target="_blank">
-<img src="./x.png" width="50px" height="50px" alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./x.png" alt="Amit Hasan" width="35" height="35" />
 </a>
 
 <a href="https://github.com/coderamit01" target="_blank">
-<img src="./github.png" width="50px" height="50px" alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" alt="coderamit01" width="35" height="35" />
 </a>
 
 <a href="http://linkedin.com/in/procoderamit" target="_blank">
-<img src="./linkedin.png" width="50px" height="50px" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" alt="procoderamit" width="35" height="35" />
 </a>
 
 </div>
