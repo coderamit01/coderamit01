@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:220a28,45:6d2e5b,100:c56a90&height=210&section=header&text=Amit%20Hasan&fontColor=fffff&fontSize=54&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlign=50&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Amit Hasan — Frontend Focus Full-Stack Developer.r" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:220a28,45:6d2e5b,100:c56a90&height=210&section=header&text=Amit%20Hasan&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlign=50&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Amit Hasan — Frontend Focus Full-Stack Developer.r" />
 </div>
 
 <div align="center">
